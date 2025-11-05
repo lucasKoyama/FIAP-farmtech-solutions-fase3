@@ -1,0 +1,16 @@
+📘 Projeto: FarmTech Solutions – Fase 3
+Autores: Enzo França Sader (RM566928) e Lucas Hideki Oliveira Koyama (RM566925)
+Curso: Tecnologia em Inteligência Artificial – FIAP  
+
+🔗 Repositório no GitHub:
+https://github.com/lucasKoyama/FIAP-farmtech-fase3-solutions
+
+🎥 Vídeo de Demonstração (YouTube):
+
+
+📄 Descrição:
+Este projeto visa se conectar e carregar dados ao banco de dados oracleDB, no README.md consta:
+1. Um relatório com os passos seguidos;
+2. Prints de tela de cada passo e das consultas realizadas;
+3. Uso dos arquivos da Fase 2 como base para importação.
+4. [video]() explicando todos as etapas realizadas no projeto.
