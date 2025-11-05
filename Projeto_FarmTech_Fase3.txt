@@ -3,7 +3,7 @@ Autores: Enzo França Sader (RM566928) e Lucas Hideki Oliveira Koyama (RM566925)
 Curso: Tecnologia em Inteligência Artificial – FIAP  
 
 🔗 Repositório no GitHub:
-https://github.com/lucasKoyama/FIAP-farmtech-fase3-solutions
+https://github.com/lucasKoyama/FIAP-farmtech-solutions-fase3
 
 🎥 Vídeo de Demonstração (YouTube):
 https://www.youtube.com/watch?v=ge-Xb6JjUA8
