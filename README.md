@@ -8,7 +8,7 @@ Este projeto visa se conectar e carregar dados ao banco de dados oracleDB, neste
 1. Um relatório com os passos seguidos;
 2. Prints de tela de cada passo e das consultas realizadas;
 3. Uso dos arquivos da Fase 2 como base para importação.
-4. [video]() explicando todos as etapas realizadas no projeto.
+4. [video](https://www.youtube.com/watch?v=ge-Xb6JjUA8) explicando todos as etapas realizadas no projeto.
 
 ## Faça download do Oracle SQL Developer acessando o site
 https://www.oracle.com/database/sqldeveloper/technologies/download/.
